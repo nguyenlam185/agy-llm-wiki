@@ -1,0 +1,11 @@
+{
+  "name": "llm-wiki",
+  "displayName": "LLM Wiki",
+  "description": "On-demand, workspace-local knowledge base following Karpathy's LLM Wiki pattern with immutable source packets, OKF v0.2 projections, and Obsidian-compatible /wiki-* workflows.",
+  "version": "0.1.0",
+  "suggestedPrompts": [
+    "/wiki-init AI Engineering",
+    "/wiki-ingest https://example.com/article",
+    "/wiki-query What are the key takeaways across ingested sources?"
+  ]
+}
